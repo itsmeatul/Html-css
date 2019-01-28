@@ -1,0 +1,59 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background: #0A0A08;
+	background-size: cover; 
+}
+
+.box 
+{
+	width: 450px;
+	background: #FEFEFE;
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top:3%;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.box-img 
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.box h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 50px;
+	letter-spacing: 2px;
+	font-weight: 300;
+	color: #04133B;
+	margin-bottom: 0px;
+
+}
+.box h5 {
+	font-family: 'Baloo Thambi', cursive;
+	font-size:30px;
+    color: #0076FA;
+    font-weight:100;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+.box p{
+	text-align: justify;
+	color: #020C17;
+}
+ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+.box li 
+{
+	display: inline;
+	margin: 6px;
+	list-style: none;
+	color: #FFFFFF;
+	background: 
+}
